@@ -20,7 +20,7 @@
     "version": "v0.0.1",
     "require": {
         "php": ">=7.1",
-        "guzzlehttp/guzzle": "^6.2"
+        "guzzlehttp/guzzle": "^7.0.1"
     },
     "autoload": {
         "psr-4": {
